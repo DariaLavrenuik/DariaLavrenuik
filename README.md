@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 My specialisation is data science and analytics. 
+
 Professional skills and tools:
+
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, SQl, Git, Bash.
+
 My projects: [Portfolio](https://github.com/DariaLavrenuik/Portfolio)
