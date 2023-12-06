@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I am Daria Lavreniuk 👋
+
 
 <!--
 **DariaLavrenuik/DariaLavrenuik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌱 I'm an aspiring data science enthusiast eager to explore the fascinating world of data and uncover meaningful insights. Currently on the journey of becoming a data science specialist, I'm passionate about leveraging data-driven approaches to solve real problems.
 
-My specialisation is data science and analytics. 
-
-Professional skills and tools:
+My GitHub repository is a reflection of my learning process and hands-on experience with various tools and techniques in the realm of data science. From data preprocessing to machine learning models and data visualization, I'm committed to continuous growth and improvement. Professional skills and tools that are represented here:
 
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, SQl, Git, Bash.
 
-My projects: [Portfolio](https://github.com/DariaLavrenuik/Portfolio)
+📚 Feel free to explore my GitHub repository and reach out if you have any insights, suggestions, or just want to chat about all things data. 
+
+🔍View my projects: [Portfolio](https://github.com/DariaLavrenuik/Portfolio)
